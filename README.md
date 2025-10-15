@@ -30,10 +30,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="913" height="592" alt="Screenshot 2025-10-15 at 3 13 38 PM" src="https://github.com/user-attachments/assets/5374a052-5282-4bf5-a6c6-00cea1917819" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A user is about to create a ticket using the osTicket Support System. They can do so by clicking the blue "Open a New Ticket" button.
 </p>
 <br />
 
