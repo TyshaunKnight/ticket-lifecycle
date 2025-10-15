@@ -38,10 +38,10 @@ A user is about to create a ticket using the osTicket Support System. They can d
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="917" height="853" alt="Screenshot 2025-10-15 at 5 33 29 PM" src="https://github.com/user-attachments/assets/964bd8c3-6ccd-41c1-b9af-9c485b91da09" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Karen reports that users are unable to access the online banking portal which falls under the Business Critical Outage Category.
 </p>
 <br />
 
