@@ -89,10 +89,10 @@ Jane determines the root cause of the update and logs it in the ticket communica
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="457" height="264" alt="Screenshot 2025-10-15 at 6 18 08 PM" src="https://github.com/user-attachments/assets/1067cf6d-8040-4dd9-bebd-cc44634aa5b1" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After successfully fixing the issue, Jane resolves the ticket.
 </p>
 <br />
 
