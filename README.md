@@ -92,26 +92,25 @@ After successfully fixing the issue, Jane resolves the ticket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p><img width="828" height="635" alt="Screenshot 2025-10-15 at 6 24 02 PM" src="https://github.com/user-attachments/assets/f84a9f76-1965-49b7-981b-ea928de1f26f" />
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ken from accounting reports an issue becuase his team can't access Adobe Reader which is crucial for their workflow. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="914" height="762" alt="Screenshot 2025-10-15 at 6 37 43 PM" src="https://github.com/user-attachments/assets/cf8bbb69-f570-4fa0-839a-1d1aad58296d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John reaches out to Ken to inquire more about the issue. He discovers that only 2 people in the accounting department are experiencing this issue. He tells Ken to have them restart their computers and Ken agrees to update Johb after lunch.
+</p>
+<br />
+
+<p>
+<img width="903" height="600" alt="Screenshot 2025-10-15 at 6 39 51 PM" src="https://github.com/user-attachments/assets/6195e3a1-879d-4b0d-9507-cb2ab4194ae0" />
+</p>
+<p>
+Ken updates after lunch and John notates the resolution of the issue and closes the ticket.
 </p>
 <br />
 
