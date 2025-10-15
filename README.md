@@ -39,6 +39,7 @@ A user is about to create a ticket using the osTicket Support System. They can d
 
 <p>
 <img width="917" height="853" alt="Screenshot 2025-10-15 at 5 33 29 PM" src="https://github.com/user-attachments/assets/964bd8c3-6ccd-41c1-b9af-9c485b91da09" />
+<img width="845" height="544" alt="Screenshot 2025-10-15 at 5 34 44 PM" src="https://github.com/user-attachments/assets/c063c630-83a7-41b4-a60a-e3f0edcdfed0" />
 </p>
 <p>
 Karen reports that users are unable to access the online banking portal which falls under the Business Critical Outage Category.
@@ -46,10 +47,9 @@ Karen reports that users are unable to access the online banking portal which fa
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="472" height="365" alt="Screenshot 2025-10-15 at 5 36 19 PM" src="https://github.com/user-attachments/assets/54c3f04f-793f-484c-b35a-f56744026a92" />
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John, a technical support professional, logs in to resolve ticekts
 </p>
 <br />
 
