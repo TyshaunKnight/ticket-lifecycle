@@ -48,6 +48,8 @@ Karen reports that users are unable to access the online banking portal which fa
 
 <p>
 <p><img width="472" height="365" alt="Screenshot 2025-10-15 at 5 36 19 PM" src="https://github.com/user-attachments/assets/54c3f04f-793f-484c-b35a-f56744026a92" />
+<img width="922" height="221" alt="Screenshot 2025-10-15 at 5 39 12 PM" src="https://github.com/user-attachments/assets/443689da-6691-404f-8894-e0aa44b589fe" />
+<img width="907" height="574" alt="Screenshot 2025-10-15 at 5 49 08 PM" src="https://github.com/user-attachments/assets/9149bfdf-5518-42aa-8ef2-289ca7c47d53" />
 </p>
 John, a technical support professional, logs in to resolve ticekts
 </p>
