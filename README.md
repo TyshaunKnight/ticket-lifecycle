@@ -56,10 +56,11 @@ John, a technical support professional, logs in to resolve ticekts
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="658" height="261" alt="Screenshot 2025-10-15 at 5 52 23 PM" src="https://github.com/user-attachments/assets/2413c66e-03ab-4ddb-a317-50df4089726a" />
+<img width="638" height="242" alt="Screenshot 2025-10-15 at 5 59 07 PM" src="https://github.com/user-attachments/assets/25690008-abf9-4fa6-9778-9259a52b9a16" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+John assigned the correct severity level for the ticket and assigns it to the right team.
 </p>
 <br />
 
