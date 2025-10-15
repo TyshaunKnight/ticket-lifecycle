@@ -24,6 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+TICKET ONE
 <p>
 <img width="913" height="592" alt="Screenshot 2025-10-15 at 3 13 38 PM" src="https://github.com/user-attachments/assets/5374a052-5282-4bf5-a6c6-00cea1917819" />
 </p>
@@ -91,6 +92,7 @@ After successfully fixing the issue, Jane resolves the ticket.
 </p>
 <br />
 
+TICKET TWO
 <p>
 </p><img width="828" height="635" alt="Screenshot 2025-10-15 at 6 24 02 PM" src="https://github.com/user-attachments/assets/f84a9f76-1965-49b7-981b-ea928de1f26f" />
 <p>
