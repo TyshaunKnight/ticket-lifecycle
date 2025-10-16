@@ -47,7 +47,7 @@ Karen reports that users are unable to access the online banking portal which fa
 <img width="922" height="221" alt="Screenshot 2025-10-15 at 5 39 12 PM" src="https://github.com/user-attachments/assets/443689da-6691-404f-8894-e0aa44b589fe" />
 <img width="907" height="574" alt="Screenshot 2025-10-15 at 5 49 08 PM" src="https://github.com/user-attachments/assets/9149bfdf-5518-42aa-8ef2-289ca7c47d53" />
 </p>
-John, a technical support professional, logs in to resolve ticekts
+John, a technical support professional, logs in to resolve tickets.
 </p>
 <br />
 
@@ -72,7 +72,7 @@ Jane, another support professional who specializes in online banking issues, pic
 <img width="908" height="703" alt="Screenshot 2025-10-15 at 6 13 38 PM" src="https://github.com/user-attachments/assets/fc821874-2b00-450f-a6c6-9efa22e70fd2" />
 </p>
 <p>
-Each action done within the ticket and tracked and can be seen by those invloved with it. Here we can see the last message where Jane explains what she will be doing to further investigate and pin point what the issue is. 
+Each action done within the ticket and tracked and can be seen by those involved with it. Here we can see the last message where Jane explains what she will be doing to further investigate and pinpoint what the issue is. 
 </p>
 <br />
 
@@ -96,7 +96,7 @@ TICKET TWO
 <p>
 </p><img width="828" height="635" alt="Screenshot 2025-10-15 at 6 24 02 PM" src="https://github.com/user-attachments/assets/f84a9f76-1965-49b7-981b-ea928de1f26f" />
 <p>
-Ken from accounting reports an issue becuase his team can't access Adobe Reader which is crucial for their workflow. 
+Ken from accounting reports an issue because his team can't access Adobe Reader which is crucial for their workflow. 
 </p>
 <br />
 
@@ -104,7 +104,7 @@ Ken from accounting reports an issue becuase his team can't access Adobe Reader 
 <img width="914" height="762" alt="Screenshot 2025-10-15 at 6 37 43 PM" src="https://github.com/user-attachments/assets/cf8bbb69-f570-4fa0-839a-1d1aad58296d" />
 </p>
 <p>
-John reaches out to Ken to inquire more about the issue. He discovers that only 2 people in the accounting department are experiencing this issue. He tells Ken to have them restart their computers and Ken agrees to update Johb after lunch.
+John reaches out to Ken to inquire more about the issue. He discovers that only 2 people in the accounting department are experiencing this issue. He tells Ken to have them restart their computers and Ken agrees to update John after lunch.
 </p>
 <br />
 
@@ -128,7 +128,7 @@ Karen creates a ticket for the CFO since his computer won't turn on.
 <p>
 </p>
 <p>
-John picks up the ticket and sets the SLA to Sev-B becuase 1 computer doesn't constitute a significant business impact but he will reasses the SLA upon further investigation.
+John picks up the ticket and sets the SLA to Sev-B because 1 computer doesn't constitute a significant business impact but he will reassess the SLA upon further investigation.
 </p>
 <br />
 
@@ -137,7 +137,7 @@ John picks up the ticket and sets the SLA to Sev-B becuase 1 computer doesn't co
 <img width="648" height="228" alt="Screenshot 2025-10-15 at 7 10 01 PM" src="https://github.com/user-attachments/assets/899687f2-3aab-477b-9dd5-92cdaf5edd15" />
 </p>
 <p>
-After physically going to investigate the issue he finds out that the computer's charger was broken. He then closes the ticket and notates the reason and resolution.
+After physically going to investigate the issue he finds out that the computer's charger was broken. He closes the ticket and adds a short note describing the problem and the solution.
 </p>
 <br />
 
